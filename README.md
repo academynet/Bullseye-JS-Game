@@ -8,4 +8,4 @@ Youtube Video: https://youtu.be/KUuxYWMCzk4
 
 </br>
 
-![BullseyeGame_project (Time 0_54_00;02)](https://github.com/academynet/Bullseye-JS-Game/assets/139820934/a6b6e6f7-e8df-4dcd-86ce-85a302557468)
+![BullseyeGame_project (Time 0_54_00;02)](https://github.com/academynet/Bullseye-JS-Game/assets/139820934/25595edf-97d6-4106-a235-ce078b60c3af)
